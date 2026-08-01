@@ -123,4 +123,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 ## 👤 Author
 
 **Shivanshu Srivastava**
-[LinkedIn](https://linkedin.com/in/shivanshu-srivastava) · shivanshu.srivastava2004@gmail.com
+[LinkedIn](https://www.linkedin.com/in/shivanshu-srivastava-19840728b/) · shivanshu.srivastava2004@gmail.com

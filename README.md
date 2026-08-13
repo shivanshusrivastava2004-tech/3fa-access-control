@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D.svg)](https://www.arduino.cc/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-FaceRecognition-5C3EE8.svg)](https://opencv.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 A hardware-integrated **multi-layer authentication system** combining RFID, password verification, and real-time facial recognition — achieving **0% False Acceptance Rate** and **94% True Positive Rate**.
 

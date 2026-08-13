@@ -116,9 +116,6 @@ pip install -r requirements.txt
 
 Applied OWASP Top 10 guidelines to harden the system, including secure credential storage, input validation, and protection against replay/spoofing attempts on the backend communication layer.
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
